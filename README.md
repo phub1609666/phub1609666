@@ -1,16 +1,28 @@
-### Hi there 👋
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+<h1 align="center">Tran Van The Phu</h1>
+<h2 align="center">A passionate developer from Vietnam</h2>
 
-<!--
-**phub1609666/phub1609666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact me:
+<p align="center">
+  <a href="https://www.facebook.com/phub1609666" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank"/>
+  </a>
+  
+  <a href="https://github.com/phub1609666" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## Skills:
+<p align="center">
+  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table style="width:100%;">
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
