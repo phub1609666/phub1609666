@@ -14,7 +14,9 @@
 
 ## Skills:
   <p align="center">
-    <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
   </p>
 
 <table style="width:100%;">
