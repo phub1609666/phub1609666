@@ -1,6 +1,6 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h1 align="center">Tran Van The Phu</h1>
-<h2 align="center">A passionate developer from Vietnam</h2>
+<h2 align="center">Developer from Vietnam</h2>
 
 ## Contact me:
 <p align="center">
